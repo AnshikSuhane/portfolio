@@ -11,12 +11,12 @@ Hello! I'm Anshik Suhane, a passionate and dedicated Full Stack Developer with a
 ### Project 1: Fruit Store
 - **Description:** A Fruit store is an E-commerce site where we can buy Fruits.
 - **Technologies Used:** JavaScript, firebase, React, Tailwind CSS, Material UI, etc.
-- **Link:** superb-hotteok-42e7e6.netlify.app
+- **Link:** https://superb-hotteok-42e7e6.netlify.app/
 
 ### Project 2:EatLog [ Dish Scanner ] 
 - **Description:** This app will tell you how many calories you need to conserve in Daily life.
 - **Technologies Used:** JavaScript, React, Tailwind CSS, Material UI, NodeJS, MongoDB etc.
-- **Link:** https://eatlog.netlify.app
+- **Link:** https://eatlog.netlify.app/
 
 ## Skills
 
